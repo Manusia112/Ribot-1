@@ -15,16 +15,16 @@ A Lightweight WhatApp Bot Without Headless Browser
 
 # Termux
 ```bash
-> git clone https://github.com/fdciabdul/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/Manusia112/Ribot-1
+> cd Ribot-1
 > bash install.sh
 
 ```
 
 # Linux ( debian & ubuntu )
 ```bash
-> git clone https://github.com/fdciabdul/termux-whatsapp-bot
-> cd termux-whatsapp-bot
+> git clone https://github.com/Manusia112/Ribot-1
+> cd Ribot-1
 > bash install.sh
 
 ```
